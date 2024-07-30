@@ -1,0 +1,4 @@
+object data_Module: Tdata_Module
+  Height = 480
+  Width = 640
+end

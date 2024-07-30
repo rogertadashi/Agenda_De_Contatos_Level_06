@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/01 21:09:02.000.557,=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/04 14:57:29.000.016,=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/04 15:25:43.000.076,C:\Users\royok\OneDrive\Área de Trabalho\Agenda\UnitPrincipal.pas=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/04 15:25:43.000.076,C:\Users\royok\OneDrive\Área de Trabalho\Agenda\UnitPrincipal.dfm=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/04 15:25:57.000.939,C:\Users\royok\OneDrive\Área de Trabalho\Agenda\Agenda_Contatos.dproj=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/07/04 15:28:57.000.924,=C:\Users\royok\OneDrive\Área de Trabalho\Agenda\Unit1.pas</Transaction>
+    <Transaction>2024/07/04 15:30:09.000.523,C:\Users\royok\OneDrive\Área de Trabalho\Agenda\UnitDM.dfm=C:\Users\royok\OneDrive\Área de Trabalho\Agenda\Unit1.dfm</Transaction>
+    <Transaction>2024/07/04 15:30:09.000.523,C:\Users\royok\OneDrive\Área de Trabalho\Agenda\UnitDM.pas=C:\Users\royok\OneDrive\Área de Trabalho\Agenda\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
